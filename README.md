@@ -1,1 +1,1 @@
-# COMPLETE-OS
+Simplified OS
